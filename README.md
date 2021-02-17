@@ -5,7 +5,7 @@ Deep Learning, Improving CNN Accuracy - Tensorflow
 
 At first a simple model is created which yields 27% accuracy:
 
-![Imgur](https://imgur.com/XcDFOqu)
+[Imgur](https://imgur.com/XcDFOqu)
 
 By adjusting tenchiques such as:
 
