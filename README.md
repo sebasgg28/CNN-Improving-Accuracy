@@ -16,6 +16,6 @@ By adjusting tenchiques such as:
 - Changing number of blocks
 
 
-By adjusting the abovetechniques the final model yielded 76% accuracy with this small dataset.
+It was possible to yield 76% accuracy by changing values of the above items, which is a huge improvement to the original 27%.
 
 
